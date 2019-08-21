@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\RUN">
+      <UniqueIdentifier>{a25e9375-9a0b-46e5-bff4-f63270f7dadd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\READ">
+      <UniqueIdentifier>{55795aab-9fa4-4b9a-af77-fd4bb437da18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\MAIN">
+      <UniqueIdentifier>{485a88b0-06c9-4246-9c37-3eef47af31f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\WRITE">
+      <UniqueIdentifier>{9be41f3f-9b54-4b5b-b19c-93bb18eb2800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dijstra">
+      <UniqueIdentifier>{c668ce06-4599-4c99-ae41-94e4042713d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LuJing">
+      <UniqueIdentifier>{c9d7f7ec-4d7c-42fc-962a-6e6d615fcabe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\SORT">
+      <UniqueIdentifier>{deb0d62b-c311-4d29-bfa3-19ac5d4353f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Matrix">
+      <UniqueIdentifier>{f327a7ba-e5bd-4a0c-a4e9-c4cb2eea47a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Run1.cpp">
+      <Filter>源文件\RUN</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeCraft-2019.cpp">
+      <Filter>源文件\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="LuJing.cpp">
+      <Filter>源文件\LuJing</Filter>
+    </ClCompile>
+    <ClCompile Include="Write.cpp">
+      <Filter>源文件\WRITE</Filter>
+    </ClCompile>
+    <ClCompile Include="DIJ.cpp">
+      <Filter>源文件\Dijstra</Filter>
+    </ClCompile>
+    <ClCompile Include="MgraphDij.cpp">
+      <Filter>源文件\Dijstra</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile.cpp">
+      <Filter>源文件\READ</Filter>
+    </ClCompile>
+    <ClCompile Include="CarPositoin.cpp">
+      <Filter>源文件\RUN</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort.cpp">
+      <Filter>源文件\SORT</Filter>
+    </ClCompile>
+    <ClCompile Include="CarStart.cpp">
+      <Filter>源文件\RUN</Filter>
+    </ClCompile>
+    <ClCompile Include="Mgraph.cpp">
+      <Filter>源文件\Dijstra</Filter>
+    </ClCompile>
+    <ClCompile Include="DIJdis.cpp">
+      <Filter>源文件\Dijstra</Filter>
+    </ClCompile>
+    <ClCompile Include="maopaodown.cpp">
+      <Filter>源文件\SORT</Filter>
+    </ClCompile>
+    <ClCompile Include="maopaoup.cpp">
+      <Filter>源文件\SORT</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>源文件\Matrix</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
