@@ -1,28 +1,31 @@
 # 2019-HUAWEI-Software-elite-Competition
 
 ## 👻 使用说明(Instructions)
-- 该仓库下包含源代码，赛题，华为官方工具包，判题器(python写的，当时比赛时大佬撸出来的，虽然和官方比有差距，但做参考还是很nice的，点击下面目录中的链接即可跳转到相应的目录下。)
-- 在源代码下有一个工程文件
+- 该仓库下包含源代码，赛题，华为官方工具包，判题器(python写的，当时比赛时大佬撸出来的，虽然和官方比有差距，但做参考还是很nice的。)
+- 由于最终的成绩不是很理想，所以在算法方面还有很大的提升，其实最终输在了适应性上，没有想到正式赛会突然变化那么大。所以想参加比赛的小伙伴这一点上要做好。
+- 程序中有一些关于图，树，栈等基本数据结构和狄杰斯特拉等算法的C语言实现，有兴趣的可以参考学习。
 ## 📖 目录(Small demo index)
 
-- 源代码： [src](https://github.com/happyCoding1024/2019-HUAWEI-Software-Elite-Competition/src.html)
-- 赛题:[赛题](https://happycoding1024.github.io/Daily-Small-Item/PureCSSPencil/PureCSSPencil.html)
-- 华为官方工具包:[初赛SDK](https://happycoding1024.github.io/Daily-Small-Item/PureCSSCloud/PureCSSCloud.html)
-- 判题器：[判题器](https://happycoding1024.github.io/Daily-Small-Item/RegulationExpressionTool/正则表达式的测试工具.html)
+- 源代码： 包含一个C完整的工程，利用VS软件打开即可运行。
+- 赛题: 当时比赛时官方网站上的文档，现在应该不能下载了。
+- 华为官方工具包: 当时比赛时的SDK，里面包含编译说明等，由于最终程序是在linux下编译运行，所以建议学一下linux.
+- 判题器：大佬比赛期间撸出来的，里面有相应的说明文档，可以利用源代码中的输出结果进行测试。
 
-## 🔔 更新日志(Update log)
+## 🔔 几点建议(Suggestions)
 
-- **2019-08-21** : 新上传正则表达式工具.
-<br>......
+1. 不用太考虑运行时间的问题，如果Python，C同时会，那么建议选择Python。当时没有经验没有想那么多，最终选择了C。不是说C不好，只是毕竟这是一个比赛，Python有太多库可以供你调用，你可以节省很多时间去做算法上面的优化。
+2. 如果没学过Linux，建议抽时间学习一下Linux基本知识，因为最后提交的文件都要求在Linux进行编译提交；
+3. 建议平时多去写一些demo，动手试一下实现各种常见的算法。
+4. 图有关的数据结构和算法建议好好学习一下，感觉还是重点内容。
 
 ## 🚀 注意事项(Attention)
-- 暂时没有，哈哈~~~
+- 本人是小白一枚，如有错误欢迎指正，啊哈~~~
 
 ## 💻 工具反馈（Feedback）
-- 遇到任何问题欢迎与我联系，本人也是前端初学者，真心希望广大开源爱好者能够多多指导。
+- 遇到任何问题欢迎与我联系。
 - Github：[反馈问题](https://github.com/happyCoding1024/FrontendLearningTool/issues)
 
 ## 📜 侵权说明 (Tort statement)
-- 此工具仅限前端初学者学习使用，不得用于非法牟利，如产生法律纠纷与此工具作者无关，此作品是本人前端学习过程中完成，如有侵权，请与我联系。
+- 此工程仅限学习使用，不得用于非法牟利，如产生法律纠纷与此工具作者无关，如有侵权，请与我联系。
 - 邮箱：357378958@qq.com
 
