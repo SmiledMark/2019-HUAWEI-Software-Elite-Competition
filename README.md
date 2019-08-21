@@ -1,11 +1,11 @@
 # 2019-HUAWEI-Software-elite-Competition
 
 ## 👻 使用说明(Instructions)
-- 包含一些简单的小demo，点击下面目录里的链接即可进入相应的demo。
-
+- 该仓库下包含源代码，赛题，华为官方工具包，判题器(python写的，当时比赛时大佬撸出来的，虽然和官方比有差距，但做参考还是很nice的，点击下面目录中的链接即可跳转到相应的目录下。)
+- 在源代码下有一个工程文件
 ## 📖 目录(Small demo index)
 
-- 源代码： [src](https://happycoding1024.github.io/Daily-Small-Item/EightTrigrams/EightTrigrams.html)
+- 源代码： [src](https://github.com/happyCoding1024/2019-HUAWEI-Software-Elite-Competition/src.html)
 - 赛题:[赛题](https://happycoding1024.github.io/Daily-Small-Item/PureCSSPencil/PureCSSPencil.html)
 - 华为官方工具包:[初赛SDK](https://happycoding1024.github.io/Daily-Small-Item/PureCSSCloud/PureCSSCloud.html)
 - 判题器：[判题器](https://happycoding1024.github.io/Daily-Small-Item/RegulationExpressionTool/正则表达式的测试工具.html)
