@@ -23,6 +23,6 @@
 5. 考虑程序的健壮性，初赛和正式赛的数据很可能会变化巨大。
 
 ## 💻 资料反馈（Feedback）
-- - 本人是小白一枚，如有问题欢迎[戳我](https://github.com/happyCoding1024/FrontendLearningTool/issues)哦。
+- 如有问题欢迎[戳我](https://github.com/happyCoding1024/FrontendLearningTool/issues)哦。
 
 
